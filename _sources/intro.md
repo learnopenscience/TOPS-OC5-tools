@@ -1,19 +1,45 @@
-# TOPS Core Curriculum Module 1: Ethos of Open Science
+# TOPS Core Curriculum Module 5: Open Science Tools and Resources
 
-The module's introductory content goes here. Replace this template text by a short description of the context and content of the module, and welcome learners to the experience. Add any guidance you think learners need to navigate the content. 
+Welcome! This last Module provides a collection of tools that are available to increase the visibility and discoverability of your project. It complements the previous OpenCore Modules (Ethos of Open Science, Open Data, Open Software, and Open Results) by enhancing the practical implementation of the Open Science concepts explained previously. While earlier modules focused on the concepts, advantages, and disadvantages of Responsible Open Science practices, this module will focus more on the practical applications of Responsible Open Science practices. We focus on a few key tools, and highlight how they fit across the research lifecycle. 
 
-The content of the module is built from a collection of Markdown files (`.md`). You can also use Jupyter notebooks (`.ipynb`) if you wish.
-The structure of the module is set by listing the files in order in the `_toc.yml` file, under the `chapters` heading. You can follow the example provided by this template and edit the file list as the content develops.
+**Module Outline** 
 
-
-The `intro.md` file (this file) is the "root" of the module content, with the rest of the content written as separate files, e.g., one file per lesson (or section). Use a top-level heading (starting with one `#`) at the start of each file. Add subsections using `##` and `###` in the lesson files, but not in this `intro.md` file.
-
-A table of contents will be added automatically using the directive:
-
-````
-```{tableofcontents}
-```
-````
+- **Lesson 1: Introduction to Open Science tools**
+  - 1.1 Definition: What do we mean by “Open Science tools”?
+  - 1.2 What’s the difference between ‘open’ and ‘closed’ tools? Why use Open Science tools?
+  - 1.3 How do Open Science tools fit into the research lifecycle?
+  - 1.4 How do Open Science tools address responsible practices?
+- **Lesson 2: Open Science tools across the research lifecycle**
+  - 2.1 Open Science tools for protocols
+  - 2.2 Open Science tools for data
+    - Sharing data with your (research) team
+    - Data repositories
+  - 2.3 Open Science tools for code
+    - Collaborative development tools
+    - Code repositories
+  - 2.4 Open Science tools for results
+  - 2.5 Open Science tools for authoring
+    - Collaborative writing tools
+    - Reference management tools
+    - Publishing Open Science and Open Access
+- **Lesson 3: Open Science tools for reproducibility**
+  - 3.1 What is reproducibility?
+  - 3.2 Computational notebooks
+    - Jupyter
+    - R Markdown
+    - Quarto
+- **Lesson 4: Open Science communities**
+  - 4.1 Why engage with Open Science communities?
+  - 4.2 What is a Community of Practice (CoP)?
+    - Communities list
+  - 4.3 How to engage with Open Science communities
+    - Pathways for contribution
+    - Pathways for collaboration
+    - Pathways for engagement
+      - Case Study: FORRT
+  - 4.4 How to build and lead a community
+    - Guidelines for building communities
+    - Mountain of engagement
 
 ```{tableofcontents}
 ```
