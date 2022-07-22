@@ -8,3 +8,4 @@
 - Elli Papadopoulou (Subject Matter Expert)
 - Rebecca Ringuette (Subject Matter Expert)
 - Tyson Swetnam (Subject Matter Expert)
+- Transform to Open Science (TOPS) Team
