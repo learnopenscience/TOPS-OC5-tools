@@ -1,25 +1,37 @@
 # Lesson 2: Open Science tools across the research lifecycle
 
-## 2.1 Open Science tools for protocols
+```{contents}
+:local:
+```
 
-## 2.2 Open Science tools for data
+## Introduction 
 
-### Sharing data with your (research) team
+### 2.1 Open Science tools for protocols
 
-### Data repositories
+### 2.2 Open Science tools for data
 
-## 2.3 Open Science tools for code
+#### Sharing data with your (research) team
 
-### Collaborative development tools
+#### Data repositories
 
-### Code repositories
+### 2.3 Open Science tools for code
 
-## 2.4 Open Science tools for results
+#### Collaborative development tools
 
-## 2.5 Open Science tools for authoring
+#### Code repositories
 
-### Collaborative writing tools
+### 2.4 Open Science tools for results
 
-### Reference management tools
+### 2.5 Open Science tools for authoring
 
-### Publishing Open Science and Open Access
+#### Collaborative writing tools
+
+#### Reference management tools
+
+#### Publishing Open Science and Open Access
+
+## Conclusion 
+
+## Assessment
+
+

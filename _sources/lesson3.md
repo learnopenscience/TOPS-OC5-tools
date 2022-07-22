@@ -1,12 +1,22 @@
 # Lesson 3: Open Science tools for reproducibility
 
-## 3.1 What is reproducibility?
+```{contents}
+:local:
+```
 
-## 3.2 Computational notebooks
+## Introduction 
 
-### Jupyter
+### 3.1 What is reproducibility?
 
-### R Markdown
+### 3.2 Computational notebooks
 
-### Quarto
+#### Jupyter
+
+#### R Markdown
+
+#### Quarto
+
+## Conclusion
+
+## Assessment
   

@@ -1,23 +1,33 @@
 # Lesson 4: Open Science communities
 
-## 4.1 Why engage with Open Science communities?
+```{contents}
+:local:
+```
 
-## 4.2 What is a Community of Practice (CoP)?
+## Introduction
 
-### Communities list
+### 4.1 Why engage with Open Science communities?
 
-## 4.3 How to engage with Open Science communities
+### 4.2 What is a Community of Practice (CoP)?
 
-### Pathways for contribution
+#### Communities list
 
-### Pathways for collaboration
+### 4.3 How to engage with Open Science communities
 
-### Pathways for engagement
+#### Pathways for contribution
 
-#### Case Study: FORRT
+#### Pathways for collaboration
 
-## 4.4 How to build and lead a community
+#### Pathways for engagement
 
-### Guidelines for building communities
+##### Case Study: FORRT
 
-### Mountain of engagement
+### 4.4 How to build and lead a community
+
+#### Guidelines for building communities
+
+#### Mountain of engagement
+
+## Conclusion
+
+## Assessment

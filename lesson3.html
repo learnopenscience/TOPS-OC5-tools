@@ -144,6 +144,11 @@ const thebe_selector_output = ".output, .cell_output"
    References
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="contributors.html">
+   Contributors
+  </a>
+ </li>
 </ul>
 
     </div>
@@ -339,31 +344,48 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-reproducibility">
-   3.1 What is reproducibility?
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#computational-notebooks">
-   3.2 Computational notebooks
+  <a class="reference internal nav-link" href="#introduction">
+   Introduction
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#jupyter">
-     Jupyter
+    <a class="reference internal nav-link" href="#what-is-reproducibility">
+     3.1 What is reproducibility?
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#r-markdown">
-     R Markdown
+    <a class="reference internal nav-link" href="#computational-notebooks">
+     3.2 Computational notebooks
     </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#quarto">
-     Quarto
-    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#jupyter">
+       Jupyter
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#r-markdown">
+       R Markdown
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#quarto">
+       Quarto
+      </a>
+     </li>
+    </ul>
    </li>
   </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#conclusion">
+   Conclusion
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#assessment">
+   Assessment
+  </a>
  </li>
 </ul>
 
@@ -385,31 +407,48 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-reproducibility">
-   3.1 What is reproducibility?
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#computational-notebooks">
-   3.2 Computational notebooks
+  <a class="reference internal nav-link" href="#introduction">
+   Introduction
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#jupyter">
-     Jupyter
+    <a class="reference internal nav-link" href="#what-is-reproducibility">
+     3.1 What is reproducibility?
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#r-markdown">
-     R Markdown
+    <a class="reference internal nav-link" href="#computational-notebooks">
+     3.2 Computational notebooks
     </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#quarto">
-     Quarto
-    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#jupyter">
+       Jupyter
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#r-markdown">
+       R Markdown
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#quarto">
+       Quarto
+      </a>
+     </li>
+    </ul>
    </li>
   </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#conclusion">
+   Conclusion
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#assessment">
+   Assessment
+  </a>
  </li>
 </ul>
 
@@ -423,20 +462,47 @@ title="Print to PDF"
                 
   <section class="tex2jax_ignore mathjax_ignore" id="lesson-3-open-science-tools-for-reproducibility">
 <h1>Lesson 3: Open Science tools for reproducibility<a class="headerlink" href="#lesson-3-open-science-tools-for-reproducibility" title="Permalink to this headline">#</a></h1>
+<div class="contents local topic" id="contents">
+<ul class="simple">
+<li><p><a class="reference internal" href="#introduction" id="id1">Introduction</a></p>
+<ul>
+<li><p><a class="reference internal" href="#what-is-reproducibility" id="id2">3.1 What is reproducibility?</a></p></li>
+<li><p><a class="reference internal" href="#computational-notebooks" id="id3">3.2 Computational notebooks</a></p>
+<ul>
+<li><p><a class="reference internal" href="#jupyter" id="id4">Jupyter</a></p></li>
+<li><p><a class="reference internal" href="#r-markdown" id="id5">R Markdown</a></p></li>
+<li><p><a class="reference internal" href="#quarto" id="id6">Quarto</a></p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#conclusion" id="id7">Conclusion</a></p></li>
+<li><p><a class="reference internal" href="#assessment" id="id8">Assessment</a></p></li>
+</ul>
+</div>
+<section id="introduction">
+<h2><a class="toc-backref" href="#id1">Introduction</a><a class="headerlink" href="#introduction" title="Permalink to this headline">#</a></h2>
 <section id="what-is-reproducibility">
-<h2>3.1 What is reproducibility?<a class="headerlink" href="#what-is-reproducibility" title="Permalink to this headline">#</a></h2>
+<h3><a class="toc-backref" href="#id2">3.1 What is reproducibility?</a><a class="headerlink" href="#what-is-reproducibility" title="Permalink to this headline">#</a></h3>
 </section>
 <section id="computational-notebooks">
-<h2>3.2 Computational notebooks<a class="headerlink" href="#computational-notebooks" title="Permalink to this headline">#</a></h2>
+<h3><a class="toc-backref" href="#id3">3.2 Computational notebooks</a><a class="headerlink" href="#computational-notebooks" title="Permalink to this headline">#</a></h3>
 <section id="jupyter">
-<h3>Jupyter<a class="headerlink" href="#jupyter" title="Permalink to this headline">#</a></h3>
+<h4><a class="toc-backref" href="#id4">Jupyter</a><a class="headerlink" href="#jupyter" title="Permalink to this headline">#</a></h4>
 </section>
 <section id="r-markdown">
-<h3>R Markdown<a class="headerlink" href="#r-markdown" title="Permalink to this headline">#</a></h3>
+<h4><a class="toc-backref" href="#id5">R Markdown</a><a class="headerlink" href="#r-markdown" title="Permalink to this headline">#</a></h4>
 </section>
 <section id="quarto">
-<h3>Quarto<a class="headerlink" href="#quarto" title="Permalink to this headline">#</a></h3>
+<h4><a class="toc-backref" href="#id6">Quarto</a><a class="headerlink" href="#quarto" title="Permalink to this headline">#</a></h4>
 </section>
+</section>
+</section>
+<section id="conclusion">
+<h2><a class="toc-backref" href="#id7">Conclusion</a><a class="headerlink" href="#conclusion" title="Permalink to this headline">#</a></h2>
+</section>
+<section id="assessment">
+<h2><a class="toc-backref" href="#id8">Assessment</a><a class="headerlink" href="#assessment" title="Permalink to this headline">#</a></h2>
 </section>
 </section>
 
